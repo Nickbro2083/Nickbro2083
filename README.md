@@ -20,4 +20,4 @@ I'm a final-year university student majoring in Artificial Intelligence, passion
 - Looking for internship opportunities in AI and Business Analysis
   
 📫 Connect With Me
--Feel free to explore my projects!
+- Feel free to explore my projects!
