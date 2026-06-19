@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-I'm a final-year university student majoring in Artificial Intelligence, passionate about Machine Learning, Computer Vision, and Data Science.
+I'm a final-year university student majoring in Artificial Intelligence, passionate about Machine Learning, Computer Vision, and some Game Development
 
 🛠️ Tools & Technologies
 - Python
 - Java
+- C#
 - TensorFlow & PyTorch
 - Scikit-learn
 - OpenCV
 - SQL
 - Git & GitHub
 - VS Code
+- Unity
   
 🚀 Currently Working On
 - Machine Learning and Deep Learning projects
