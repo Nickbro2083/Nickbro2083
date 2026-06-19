@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Nickbro2083/Nickbro2083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year university student majoring in Artificial Intelligence, passionate about Machine Learning, Computer Vision, and Data Science.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Technologies
+- Python
+- Java
+- TensorFlow & PyTorch
+- Scikit-learn
+- OpenCV
+- SQL
+- Git & GitHub
+- VS Code
+🚀 Currently Working On
+- Machine Learning and Deep Learning projects
+- Improving my AI and Software Development skills
+- Looking for internship opportunities in AI and Business Analysis
+📫 Connect With Me
+-Feel free to explore my projects!
